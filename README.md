@@ -1,5 +1,8 @@
 # spring-cloud-eureka-server
 
-- Self secured server with HTTP Basic authentication - TODO
-- 
-- Server itself not a client
+# Spring
+- 1.5 release used across with Edgware.SR2 cloud version
+
+# Discovery server
+- Not register itself as a client
+- HTTP Basic authentication enabled
